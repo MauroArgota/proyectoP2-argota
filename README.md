@@ -10,4 +10,4 @@ Este repositorio contiene el trabajo las caracteristica del Proyecto practoca .
 -Diseño resposive: Se adapta a celulares, tablets y computadoras.
 -Accesibilidad web: Texto legible, buena estructura semantica, contraste adecuado, etiquetas par lectores de pantallas.
 -Navegación clara y sencilla: Menú inbtuitico, estructura jerarquica.
--Panel de administración: Para que el personal autorizado pueda subir noticias, circulaes o fotos.  
+-Panel de administración: Para que el personal autorizado pueda subir noticias, circulaes o fotos.  # proyectoP2-argota
